@@ -53,7 +53,6 @@ function App() {
         <Canvas
           gl={{ antialias: false }} // Disabling antialiasing for performance
           camera={{ position: [0, 0, 0.5] }}
-          dpr={1}
         >
           <Particles />
 
