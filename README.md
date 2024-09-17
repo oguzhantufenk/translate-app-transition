@@ -11,5 +11,3 @@
 - Install with `npm run install`
 - Run the demo with `npm run dev`
 - Build it with `npm run build`
-
-# translate-app-dynamic
